@@ -1093,15 +1093,4 @@
         <errorMessage>Every Position must have a Hiring Manager.</errorMessage>
     </validationRules>
     <visibility>Public</visibility>
-    <webLinks>
-        <fullName>Test</fullName>
-        <availability>online</availability>
-        <displayType>button</displayType>
-        <height>600</height>
-        <linkType>page</linkType>
-        <masterLabel>Test</masterLabel>
-        <openType>sidebar</openType>
-        <page>CalculatorPage</page>
-        <protected>false</protected>
-    </webLinks>
 </CustomObject>

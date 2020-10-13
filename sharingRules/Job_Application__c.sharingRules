@@ -4,9 +4,6 @@
         <fullName>Review_Records</fullName>
         <accessLevel>Edit</accessLevel>
         <label>Review Records</label>
-        <sharedTo>
-            <group>Reviewers</group>
-        </sharedTo>
         <sharedFrom>
             <allInternalUsers></allInternalUsers>
         </sharedFrom>
