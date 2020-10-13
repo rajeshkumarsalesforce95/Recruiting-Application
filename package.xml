@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Position__c.New_Position_Approval</members>
-        <name>ApprovalProcess</name>
-    </types>
-    <types>
         <members>Recruiting_App</members>
         <name>CustomApplication</name>
     </types>
@@ -58,10 +54,6 @@
         <members>Job_Posting_Site__c</members>
         <members>Position__c</members>
         <name>SharingRules</name>
-    </types>
-    <types>
-        <members>Position__c</members>
-        <name>Workflow</name>
     </types>
     <version>49.0</version>
 </Package>
